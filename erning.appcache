@@ -1,0 +1,25 @@
+CACHE MANIFEST
+# 13-05-2015: v1.0.10
+
+# Explicitly cached entries
+CACHE:
+/index.php
+/css/style.css
+/js/erning.js
+# /js/fastclick.js
+http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js
+/favicon.ico
+/icons/dice.png
+/icons/dicePad.png
+/icons/dicePadRetina.png
+/icons/dicePhoneRetina.png
+/icons/new_arrow.jpg
+/dice/et.png
+/dice/to.png
+/dice/tre.png
+/dice/fire.png
+/dice/fem.png
+/dice/seks.png
+
+NETWORK:
+*
